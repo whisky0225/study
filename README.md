@@ -1,6 +1,6 @@
 # study
 
-##개인 study
+## 개인 study
 
 ### Hello JAVA
 
